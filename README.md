@@ -100,7 +100,7 @@ Here are some screenshots from the game, showcasing its interface and key featur
 ### In-Game Rooms
 | Living Room | Kitchen | Bathroom |
 |-------------|---------|----------|
-| ![Living Room](Preview%20Screenshots/B.5%20Living%20Room_compressed.PNG) | ![Kitchen](Preview%20Screenshots/B.7%20Kitchen_compressed.PNG) | ![Bathroom](Preview%20Screenshots/B.6%20Bathroom_compressed.PNG) |
+| ![Living Room](Preview%20Screenshots/B.3%20Buy%20Dog_compressed.PNG) | ![Kitchen](Preview%20Screenshots/B.7%20Kitchen_compressed.PNG) | ![Bathroom](Preview%20Screenshots/B.6%20Bathroom_compressed.PNG) |
 
 | Bedroom | Clinic | Dog Store |
 |---------|--------|-----------|
