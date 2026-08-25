@@ -95,7 +95,7 @@ Here are some screenshots from the game, showcasing its interface and key featur
 ### Dog Selection & Buying
 | Choose a Breed | Dog Summary | Name Your Dog |
 |----------------|-------------|---------------|
-| ![Buy a Dog](Preview%20Screenshots/B.3%20Buy%20Dog_compressed.PNG) | ![Dog Summary](Preview%20Screenshots/B.3%20Buy%20Dog_compressed.PNG) | ![Name Your Dog](Preview%20Screenshots/B.3.3%20Dog%20Naming%20Interface_compressed.PNG) |
+| ![Buy a Dog](Preview%20Screenshots/B.3%20Buy%20Dog_compressed.PNG) | ![Dog Summary](Preview%20Screenshots/B.3.1%20Dog%20Summary_compressed.PNG) | ![Name Your Dog](Preview%20Screenshots/B.3.3%20Dog%20Naming%20Interface_compressed.PNG) |
 
 ### In-Game Rooms
 | Living Room | Kitchen | Bathroom |
