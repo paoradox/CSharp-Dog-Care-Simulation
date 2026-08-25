@@ -95,25 +95,25 @@ Here are some screenshots from the game, showcasing its interface and key featur
 ### Dog Selection & Buying
 | Choose a Breed | Dog Summary | Name Your Dog |
 |----------------|-------------|---------------|
-| ![Buy a Dog](Preview%20Screenshots/B.11%20Dog%20Store_compressed.PNG) | ![Dog Summary](Preview%20Screenshots/DogSummary.png) | ![Name Your Dog](Preview%20Screenshots/NameDog.png) |
+| ![Buy a Dog](Preview%20Screenshots/B.3%20Buy%20Dog_compressed.PNGG) | ![Dog Summary](Preview%20Screenshots/B.3%20Buy%20Dog_compressed.PNG) | ![Name Your Dog](Preview%20Screenshots/B.3.3%20Dog%20Naming%20Interface_compressed.PNG) |
 
 ### In-Game Rooms
 | Living Room | Kitchen | Bathroom |
 |-------------|---------|----------|
-| ![Living Room](Preview%20Screenshots/LivingRoom.png) | ![Kitchen](Preview%20Screenshots/Kitchen.png) | ![Bathroom](Preview%20Screenshots/Bathroom.png) |
+| ![Living Room](Preview%20Screenshots/B.5%20Living%20Room_compressed.PNG) | ![Kitchen](Preview%20Screenshots/B.7%20Kitchen_compressed.PNG) | ![Bathroom](Preview%20Screenshots/B.6%20Bathroom_compressed.PNG) |
 
 | Bedroom | Clinic | Dog Store |
 |---------|--------|-----------|
-| ![Bedroom](Preview%20Screenshots/Bedroom.png) | ![Clinic](Preview%20Screenshots/Clinic.png) | ![Dog Store](Preview%20Screenshots/DogStore.png) |
+| ![Bedroom](Preview%20Screenshots/B.8%20Bedroom_compressed.PNG) | ![Clinic](Preview%20Screenshots/B.9%20Clinic2_compressed.PNG) | ![Dog Store](Preview%20Screenshots/B.11%20Dog%20Store_compressed.PNG) |
 
 ### Gameplay
 | Feeding the Dog | Bathing the Dog | Playing Outside |
 |-----------------|-----------------|-----------------|
-| ![Feed Dog](Preview%20Screenshots/FeedDog.png) | ![Bathe Dog](Preview%20Screenshots/BatheDog.png) | ![Play Outside](Preview%20Screenshots/PlayOutside.png) |
+| ![Feed Dog](Preview%20Screenshots/B.7.1%20Feed Dog_compressed.PNG) | ![Bathe Dog](Preview%20Screenshots/B.6.1%20Bathe%20Dog2_compressed.PNG) | ![Play Outside](Preview%20Screenshots/B.10%20Leave%20House%20Play%20Outside_compressed.PNG) |
 
 | Achievements | Notifications | Game Settings |
 |--------------|---------------|---------------|
-| ![Achievements](Preview%20Screenshots/Achievements.png) | ![Notifications](Preview%20Screenshots/Notifications.png) | ![Game Settings](Preview%20Screenshots/GameSettings.png) |
+| ![Achievements](Preview%20Screenshots/B.12%20View%20Achivements_compressed.PNG) | ![Notifications](Preview%20Screenshots/B.13%20Notifications_compressed.PNG) | ![Game Settings](Preview%20Screenshots/B.15%20Game%20Settings_compressed.PNG) |
 
 ---
 
