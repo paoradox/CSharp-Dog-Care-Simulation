@@ -165,9 +165,9 @@ Comprehensive documentation is available in the `Documentation/` folder:
 | Name | Role |
 |------|------|
 | **Jentzen Paolo A. Javier** | Developer, UI/UX Design, 3D Modeling, Research |
-| **Aubrey G. Cabanlig** | Developer, Research, Documentation |
 | **Melchor O. Cariño** | Developer, 3D Modeling, Animation |
 | **Allan A. Emilio** | Developer, Programming, Testing |
+| **Aubrey G. Cabanlig** | Developer, Research, Documentation |
 
 ### Advisers & Panelists
 - **Cherry Ann C. Carpiso** — Subject Adviser
