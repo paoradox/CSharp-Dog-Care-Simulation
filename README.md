@@ -196,6 +196,8 @@ This project is **freeware** and was created for **educational and research purp
 
 - **Unity Technologies** — For providing the Unity 3D game engine.
 - **Microsoft** — For the C# programming language and .NET framework.
+- **Gunbound** — For some of the soundtrack.
+- **YouTube** — For owners of the free royalty music and sound effects used.
 - **Ilovepaws** — For dog care concepts used in the research.
 - **PAWS Animal Rehabilitation Center (PARC)** — For veterinary care insights.
 - **University of Baguio** — For supporting this research project.
