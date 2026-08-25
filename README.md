@@ -109,7 +109,7 @@ Here are some screenshots from the game, showcasing its interface and key featur
 ### Gameplay
 | Feeding the Dog | Bathing the Dog | Playing Outside |
 |-----------------|-----------------|-----------------|
-| ![Feed Dog](Preview%20Screenshots/B.7.1%20Feed%20Dog_compressed.PNG) | ![Bathe Dog](Preview%20Screenshots/B.6.1%20Bathe%20Dog2_compressed.PNG) | ![Play Outside](Preview%20Screenshots/B.10%20Leave%20House%20Play%20Outside_compressed.PNG) |
+| ![Feed Dog](Preview%20Screenshots/B.7.1%20Feed%20Dog_compressed.PNG) | ![Bathe Dog](Preview%20Screenshots/B.6.1%20Bathe%20Dog2_compressed.PNG) | ![Play Outside](Preview%20Screenshots/B.10%20Leave%20House%20%20Play%20Outside_compressed.PNG) |
 
 | Achievements | Notifications | Game Settings |
 |--------------|---------------|---------------|
