@@ -1,4 +1,4 @@
-# CSharp-Dog-Care-Simulation
+# CSharp-Dog-Hut — Dog Care Simulation
 
 [![Built with](https://img.shields.io/badge/built_with-Unity_3D-02aaff?style=for-the-badge&logo=unity)](https://unity.com/)
 [![Language](https://img.shields.io/badge/language-C%23-02aaff?style=for-the-badge&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
